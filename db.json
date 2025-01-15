@@ -1,0 +1,25 @@
+{
+    "items": [
+        {
+            "open_state": {
+                "body": {
+                    "title": "nikunj how much do you need?",
+                    "subtitle": "move the dial and set any amount you need upto ₹487891 ",
+                    "card": {
+                        "header": "credit amount",
+                        "description": "@1.04% monthly",
+                        "max_range": 487891,
+                        "min_range": 500
+                    },
+                    "footer": "stash is instant. money will be credited within seconds"
+                }
+            },
+            "closed_state": {
+                "body": {
+                    "key1": "credit amount"
+                }
+            },
+            "cta_text": "Proceed to EMI selection"
+        }
+     ]
+}
